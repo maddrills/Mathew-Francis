@@ -1,0 +1,3 @@
+This repo was created when i tookup the course CS50 web
+at the time 2019 git hub was something new and scary had no idea what it was to me i thouth it was the google drive of coding 
+now about 5 years later git is just anothere easy tool
